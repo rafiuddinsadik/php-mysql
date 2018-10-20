@@ -13,11 +13,11 @@ try {
     
     // Connection output
 
-    echo "
-            <h1>Connected with database using PDO</h1>
-            <br>
-            <a href=\"./../index.php\" >Go to home</a>
-        ";
+    // echo "
+    //         <h1>Connected with database using PDO</h1>
+    //         <br>
+    //         <a href=\"./../index.php\" >Go to home</a>
+    //     ";
     
     echo "
             <script>
